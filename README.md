@@ -80,17 +80,6 @@ Métricas usadas: MAE, MSE, RMSE e R².
 
 ---
 
-## Como executar
-
-```bash
-git clone https://github.com/<seu-usuario>/<nome-do-repo>.git
-cd <nome-do-repo>
-pip install -r requirements.txt
-
-python classificacao_doenca_cardiaca.py
-python regressao_tempo_entrega.py
-```
-
 Os datasets são carregados direto do GitHub, então não é preciso baixar nada. Os scripts estão divididos em células (`#%%`), o que permite rodar bloco a bloco no Spyder ou no VS Code com a extensão Python.
 
 ---
@@ -101,7 +90,4 @@ Os datasets são carregados direto do GitHub, então não é preciso baixar nada
 
 ---
 
-## Autor
 
-**Matheus Martinez (Mart)**
-[LinkedIn](https://www.linkedin.com/in/<seu-perfil>) · [GitHub](https://github.com/<seu-usuario>)
